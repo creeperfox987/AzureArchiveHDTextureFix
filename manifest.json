@@ -1,0 +1,7 @@
+{
+  "name": "AzureArchiveHDTextureFix",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "修复原生4K/8K高清Spine立绘模糊的问题。禁用底层DXT5有损压缩，强制使用无损RGBA32及三线性过滤。注意：由于使用无损原图，这会显著增加显存与内存占用，低配设备请谨慎使用",
+  "dependencies": []
+}
